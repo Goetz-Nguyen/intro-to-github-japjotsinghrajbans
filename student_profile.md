@@ -1,22 +1,22 @@
 # Student Profile
 
 ## Basic Information
-- **Name:** [Your full name]
-- **Username:** [Your GitHub username]
-- **Email:** [Your school email]
+- **Name:** Japjot Singh Rajbans
+- **Username:** japjotsinghrajbans
+- **Email:** 354235607@educ.dpcdsb.org
 
 ## About Me
-- **Major/Program:** [Your major]
-- **Year:** [Freshman/Sophomore/Junior/Senior]
-- **Interests:** [What are you interested in learning?]
+- **Major/Program:** Planning to major CS
+- **Year:** Senior
+- **Interests:** Computer Science
 
 ## Experience
-- **Programming Languages I've Used:** [List any, or write "None yet!"]
-- **Why I'm Taking This Course:** [Your reason]
+- **Programming Languages I've Used:** Python, HTML (a little bit)
+- **Why I'm Taking This Course:** To strengthen my coding skills.
 
 ## Goals
-- **What I Want to Learn:** [What do you hope to get from this class?]
-- **Career Interests:** [What field are you interested in?]
+- **What I Want to Learn:** I want to be prepared for what's to come next.
+- **Career Interests:** Artificial Intelligence - Computer Science
 
 ## Fun Fact
-[Share something interesting about yourself!]
+I started using the internet at the age of two!
